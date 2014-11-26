@@ -1,0 +1,9 @@
+body{
+font face="Comic Sans MS" color="blue";
+}
+table {
+    border-collapse: collapse;
+}
+td  {
+width:10pt;border:1px solid #3399FF;
+}

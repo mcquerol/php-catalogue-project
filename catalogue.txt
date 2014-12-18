@@ -1,0 +1,5 @@
+Orange	6
+kiwi	7
+banana	1
+apple	1
+pear	1
